@@ -58,6 +58,6 @@
 ;; ejercicio 1.22
 
 (define (search-for-primes from to)
-  (if (< from to)
-      
-   ()))
+  (timed-prime-test from)
+  (cond ((< from to)
+         (search-for-primes (+ from 1) to))))
