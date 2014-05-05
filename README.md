@@ -1,4 +1,6 @@
 sicp-exercises
 ==============
 
-exercises from sicp book
+Ejercicios del libro SICP ordenados por capitulo y pagina
+
+unicamente estan aquellos que requieren codigo.
